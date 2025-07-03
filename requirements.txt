@@ -1,4 +1,7 @@
 streamlit==1.26.0
-tensorflow==2.14.0
-Pillow
+tensorflow==2.10.0
 numpy
+pandas
+Pillow
+matplotlib
+opencv-python
